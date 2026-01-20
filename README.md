@@ -1,0 +1,2 @@
+# JAVASCRIPT-sixth-assignment
+new repo My JAVASCRIPT 6th Assingnment-CODE A SMARTER WAY TO LEARN JAVASCRIPT BOOK
